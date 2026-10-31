@@ -1,0 +1,3 @@
+# Nastavení pro Netlify: web je hotový statický, nic se nesestavuje
+[build]
+  publish = "."
